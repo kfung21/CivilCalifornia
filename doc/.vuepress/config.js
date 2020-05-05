@@ -11,9 +11,7 @@ module.exports = {
 		activeHeaderLinks: true,
 		search: true,
     	searchMaxSuggestions: 10,
-		sidebar: [
-			
-		],
+		sidebar: 'auto',
 		nav: [
 			{ text: 'Blog', link: '/blog/', items: [
 				{text: 'Blog', link: '/blog/'},
