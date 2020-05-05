@@ -4,7 +4,9 @@ date: 2020-5-4
 excerpt: What is Water (Hydraulic) and Environmental Engineering?
 type: page
 blog: true
-tags:
+tags: 
+    - disciplines 
+    - water
 ---
 
 <!-- ![](https://drive.google.com/uc?export=view&id=10iOr4AQUUmXoI5kLzkevXm-CMv7tmRh_ =100x250) -->
@@ -25,3 +27,5 @@ Environmental Engineers can also work at many of the same agencies, but in the e
 Hydraulics Engineers generally work on planning, designing, constructing, and operating water facilities and infrastructure. For water supply this includes dams, weirs, levees, reservoirs, tanks, aqueducts, smaller pipes, pumping plants, rivers, and creeks. Drainage facilities include inlets, gutters, curbs, dikes, manholes, and stormwater and sewar drains. There is also work in policy, computer simulation modeling, and research.  For those who prefer the outdoors, water resources jobs may require work in rural hillsides and forests and away from heavy traffic. 
 
 Environmental engineers often work with water quality issues involving California Environmental Quality Act (CEQA) and National Environmental Policy Act (NEPA). Traditional environmental engineering work involves design and construction of water and wastewater treatment plants. Environmental engineers can also work on obtaining environmental permits for projects and making sure that projects meet all State and Federal regulations. Many times, projects can get stuck in the early environmental phase due to endangered species, tribal lands, and mitigation issues. Every project requires permits and environmental engineers play a big role in all phases from beginning to end.
+
+<TagLinks />

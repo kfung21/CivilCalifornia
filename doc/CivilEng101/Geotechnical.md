@@ -4,7 +4,7 @@ date: 2020-5-4
 excerpt: What is Geotechnical Engineering?
 type: page
 blog: true
-tags:
+tags: ["disciplines"]
 ---
 
 <!-- ![](https://drive.google.com/uc?export=view&id=10iOr4AQUUmXoI5kLzkevXm-CMv7tmRh_ =100x250) -->
@@ -19,3 +19,5 @@ Geotechnical Engineers can work at any city, county, state, utilities, or consul
 Geotechnical Engineers provide support on all types of projects including dams, levees, wells, roadways, structural walls and building foundations. Geotechnical Engineers are experts in rocks, sediment layers, soils, and various subsurface material foundations. Most will work closeley with the [Federal Energy and Regulatory Commission](https://en.wikipedia.org/wiki/Federal_Energy_Regulatory_Commission). With the recent 2012-2015 drought, new legislation relating to groundwater, and the Oroville Dam spillway collapse, geotechnical engineers have never been in higher demand. Since Geotechnical Engineers interact and work with every discipline, there are opportuniies to crossover into other fields in the future without much trouble. 
 
 When foundational design issues arise, they often make headlines for the wrong reasons. See the [SF Millennium Tower sinking](https://en.wikipedia.org/wiki/Millennium_Tower_(San_Francisco)#Sinking_and_tilting_problem) and [Oroville Dam Spillway Failure](https://www.latimes.com/local/california/la-me-ln-oroville-spillway-failure-20170905-story.html). 
+
+<TagLinks />
