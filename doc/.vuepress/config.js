@@ -23,8 +23,8 @@ module.exports = {
 			{ text: 'Civil Engineering 101', link: '/civileng101/', items: [
 			{text: 'Disciplines', link: '/civileng101/disciplines', items: [
 				{text: 'Transportation', link: '/civileng101/transportation'},
-				{text: 'Water and Environmental', link: '/civileng101/waterenv'},
-				{text: 'Geotechnical', link: '/civileng101/geotech'},
+				{text: 'Water and Environmental', link: '/civileng101/Water-Environmental'},
+				{text: 'Geotechnical', link: '/civileng101/geotechnical'},
 				{text: 'Structures', link: '/civileng101/structures'},
 			]},
 			{text: 'Fields', link: '/civileng101/fields', items: [

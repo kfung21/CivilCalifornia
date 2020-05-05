@@ -9,7 +9,7 @@ taglineLink: /blog/
 # layout: SpecialLayout #uses SpecialLayout.vue instead
 features:
   - title: Civil Engineers
-    details: Join the growing profession
+    details: The profession that is always in demand
   - title: Careers
     details: Looking for a job?
   - title: Education
