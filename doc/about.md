@@ -6,7 +6,10 @@ type: page
 blog: false
 tags:
 ---
-# What is Civil California?
+<br/>
+<br/>
+
+## What is Civil California?
 Civil California is an informational and op-ed site for civil engineers and prospective civil engineering majors to learn more about this career. Our hope is to pass along our experiences and insights for the next and current generation that we wished we knew before. 
 
 Topics will cover everything from choosing a discipline; obtaining internship experience; landing interviews; getting a full time job; becoming licensed; job promotions; office politics; pensions and retirement; public vs private and more.
