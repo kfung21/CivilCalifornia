@@ -71,6 +71,9 @@ export default {
 
 <template>
     <div class="archive">
+        <br/>
+        <br/>
+        <br/>
         <div v-for="year in getYears()">
             <div class="archive-year">{{year}}</div>
             <div v-for="month in getMonths(year)">

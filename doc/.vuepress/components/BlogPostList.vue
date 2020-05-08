@@ -84,7 +84,9 @@ export default {
 </script>
 
 <template>
-	<div>  
+	<div>
+        <br/>  
+        <br/>
         <div 
             v-if="selectedTags.length > 0"
             class="filtered-heading"
@@ -101,20 +103,19 @@ export default {
             </button>
         </div>
         <ul class="blog-list">
+            <br/>
             <li v-for="(item, index) in filteredList"
-                class="blog-list__item">
+                class="blog-list__item card">
                 <BlogPostPreview 
                     v-show="index >= currentPage * pageSize && index < (currentPage + 1) * pageSize"
                     :item="item"
                 />
                 <ul v-for="tag in item.frontmatter.tags" class="blog-list__tags">
                     <li>
-                        <button @click="addTag(tag)">{{ tag }}</button>
+                        <button @click="addTag(tag)" class="blog-list__tags__btn">#{{ tag }}</button>
                     </li>
                 </ul>
-                <hr>
             </li>
-            
         </ul>
 
         <div class="pagination">
@@ -136,23 +137,55 @@ export default {
     </div>
 </template>
 
-<style scoped>
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 70%;
+  border-radius: 50px;
+  padding: 5px 16px;
+  transform: translate(10%)
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
 .blog-list {
-	padding: 0;
+	padding: 10;
 	margin: 0;
+    text-align: center;
 }
 
 .blog-list__item {
 	list-style-type: none;
+    margin: 0 0 10px 0;
+
 }
 
 .blog-list__tags {
-    margin-bottom: 15px;
+    margin-bottom: 0px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.blog-list__tags__btn {
+    display: inline-block;
+    padding: 0 auto;
+    height: auto;
+    width: auto;
+    font-size: auto;
+    line-height: auto;
+    border-radius: 25px;
+    background-color: #f1f1f1;
+    color: gray;
+    box-shadow: 0 0;
+    border: 1px solid gray;
+
 }
 
 .button--pagination {
 	background-color: #32c8cf;
-	border-radius: 4px;
+	border-radius: 4px solid;
 	color: #fff;
 	font-size: 0.8rem;
 	padding: 0.5rem 0.75rem;
@@ -172,6 +205,17 @@ export default {
 .clear-filter-btn {
     align-self: center;
     margin-left: 20px;
+    color: blue;
+
+    border: 1px solid #32c8cf;
+	border-radius: 4px;
+	color: #32c8cf;
+	font-size: 0.8rem;
+	padding: 0.5rem 0.75rem;
+	text-transform: uppercase;
+	font-weight: 700;
+	box-shadow: 0 0;
+	transition: background-color 0.2s ease-in, color 0.2s ease-in;
 }
 
 .filtered-heading {

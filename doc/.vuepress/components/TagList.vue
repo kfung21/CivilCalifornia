@@ -1,6 +1,8 @@
 <!-- .vuepress/components/TagList.vue -->
 <template lang="html">
   <div>
+    <br/>
+    <br/>
     <span v-for="tag in Object.keys(tags)">
       <h2 :id="tag">
         <router-link
@@ -35,8 +37,12 @@ export default {
           }
         }
       }
+      console.log(tags);
       return tags
     }
+  },
+  mounted() {
+    // console.log(this.$site.pages.frontmatter.tags)
   }
 }
 </script>
