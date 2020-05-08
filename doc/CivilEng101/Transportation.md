@@ -6,7 +6,7 @@ type: page
 blog: true
 tags: ["disciplines"]
 ---
-
+<TagLinks />
 <!-- ![](https://drive.google.com/uc?export=view&id=10iOr4AQUUmXoI5kLzkevXm-CMv7tmRh_ =100x250) -->
 <img src="https://drive.google.com/uc?export=view&id=10iOr4AQUUmXoI5kLzkevXm-CMv7tmRh_" width="100%"/>
 
@@ -21,4 +21,4 @@ Because the work is very broad and overlaps with many disciplines, it is common 
 
 Transportation engineers are responsible for roadway projects, pavement, bike paths, intersection design, traffic operations, as well as funding and planning. There is often field work involved or meetings with other agencies, so there are many opportunities to work outside the office. However, sometimes site visits can be dangerous when stopping on roadway shoulders. 
 
-<TagLinks />
+

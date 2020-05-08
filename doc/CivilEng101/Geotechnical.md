@@ -6,6 +6,7 @@ type: page
 blog: true
 tags: ["disciplines"]
 ---
+<TagLinks />
 
 <!-- ![](https://drive.google.com/uc?export=view&id=10iOr4AQUUmXoI5kLzkevXm-CMv7tmRh_ =100x250) -->
 <img src="https://drive.google.com/uc?export=view&id=1lFiKbpBhPJtMZyllDZ_iDPVtK6X8-ElP" width="100%"/>
@@ -20,4 +21,4 @@ Geotechnical Engineers provide support on all types of projects including dams, 
 
 When foundational design issues arise, they often make headlines for the wrong reasons. See the [SF Millennium Tower sinking](https://en.wikipedia.org/wiki/Millennium_Tower_(San_Francisco)#Sinking_and_tilting_problem) and [Oroville Dam Spillway Failure](https://www.latimes.com/local/california/la-me-ln-oroville-spillway-failure-20170905-story.html). 
 
-<TagLinks />
+

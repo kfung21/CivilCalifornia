@@ -6,7 +6,7 @@ type: page
 blog: true
 tags: ["disciplines", "structures"]
 ---
-
+<TagLinks />
 <!-- ![](https://drive.google.com/uc?export=view&id=10iOr4AQUUmXoI5kLzkevXm-CMv7tmRh_ =100x250) -->
 <img src="https://drive.google.com/uc?export=view&id=1nfiSK114uBcHII9SbgxxbEyUSPXXrGM8" width="100%"/>
 
@@ -19,4 +19,4 @@ Structural Engineers can work at any city, county building or public works depar
 ## What do they do?
 Structural Engineers require a SE license to stamp and manage design projects. They are responsible for making sure all building structures are designed to the latest codes and will be held liable in the event of a disaster. One of the largest structural design projects in California history was the new [Eastern Span of the Bay Bridge](https://en.wikipedia.org/wiki/Eastern_span_replacement_of_the_San_Francisco%E2%80%93Oakland_Bay_Bridge). Lower profile work can include design of retaining walls, small bridges, overpasses, and home remodels. 
 
-<TagLinks />
+
