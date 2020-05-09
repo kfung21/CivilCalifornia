@@ -4,6 +4,7 @@ heroImage: https://drive.google.com/uc?export=view&id=1z9dV2Sm4Du1NRoV90FHS-0Voz
 heroText: Welcome to Civil California
 tagline: All Things Civil Engineering in California
 taglineLink: /blog/
+pageClass: homepage
 # actionText: Posts
 # actionLink: /blog/
 # layout: SpecialLayout #uses SpecialLayout.vue instead
