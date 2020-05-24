@@ -1,3 +1,15 @@
+---
+title: 7 Habits of Succesful People
+date: 2020-5-24
+excerpt: How to be effective in Life
+type: blog
+blog: true
+tags:
+    - work
+    - communication
+---
+<TagLinks />
+
 ## The Habits
 Habbits are the intersection of:
 - Knowledge - What to do and why
