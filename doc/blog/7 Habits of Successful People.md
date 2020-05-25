@@ -120,3 +120,63 @@ To take the child alone, quietly, when the relationship is good and to discuss t
 * Develop a mission statement
     - personal mission statement based on values
     - organizational mission statements must involve everyone to develop
+### Mental (1st) Creation
+* Imagination:
+    - Envision - create in our minds what can't see presently
+    - See Potential
+    - Conscience - ID our own personal endowments
+### 4 Human Endowments
+1. **Self-Awareness**
+2. Imagination
+3. Conscience
+4. Independent Will - Act not acted upon
+
+## Habit 3: First thing First
+### Phyiscal (2nd) Creation
+* Fulfillment, actualization, natural emergence of Habits 1 & 2
+* Practicing Self Management: Day-in, day-out; moment-by-moment doing it
+    - Manage from Left Brain (Logic)
+    - Lead from Right Brain (Art)
+
+### Self Management
+|                    | Urgent      | Not Urgent      |
+| ------------------ |:-----------:| :--------------:|
+| **Important**      | Necessity   |**Effectiveness**|
+| **Not Important**  | Distraction |   Waste         |
+
+#### Necessity
+* Crises
+* Emergency Meetings
+* Last-Minute Deadlines
+* Pressing Problems
+* Unforseen Events
+
+#### **Effectiveness**
+* Proactive Work
+* Important Goals 
+* Creative Thinking 
+* Planning and Prevention 
+* Relationship Building 
+* Learning and Renewal 
+* Recreation 
+
+#### Distraction
+* Needless Interruption
+* Unnecessary Reports
+* Irrelevat Meetings
+* Other People's Minor Issues
+* Unimportant Email, Tasks
+* Phone Calls, Status Posts, etc
+
+#### Waste
+* Trivial Work
+* Avoidance Activities
+* Excessive Relaxation
+* Television, Gaming
+* Internet Browsing
+* Time-Wasters
+* Gossip
+
+
+
+
