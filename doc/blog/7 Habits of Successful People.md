@@ -16,10 +16,11 @@ Habbits are the intersection of:
 - Skill - How to do
 - Desire - Motivation, Want to do
 
-<img src="https://i.etsystatic.com/13641783/r/il/d3e793/2310580253/il_1588xN.2310580253_sb11.jpghttps://i.etsystatic.com/13641783/r/il/d3e793/2310580253/il_1588xN.2310580253_sb11.jpg" alt="">
+<img src="https://miro.medium.com/max/458/1*f5TvXs1_EuvbJFPoYXJ2fg.png" alt="">
 
 ### Independence
 1. Be Proactive 
+
 2. Begin with the End in Mind 
 3. Put First Thing First 
 
@@ -50,21 +51,26 @@ Habbits are the intersection of:
 
 ## 4 Life Support Factors
 1. Security
+    - sense of worth, your identity, your emotional anchorage, your self-esteem, your basic personal strength or lack of it
 2. Guidance
+    - your source of direction in life
 3. Wisdom
+    - your perspective on life, your sense of balance, your understanding of how the various
+parts and principles apply and relate to each other
 4. Power
+    - faculty or capacity to act, the strength and potency to accomplish something
 
 ## Fulfillment in Life
 * Serve
 * Produce
 * Contribute in meaningful ways
 
-Using intimidation (fear) builds weakness because it reinforces dependence on external factors to get things done. When fear replaces cooperation, both people involved become illogical and defensive.
-
 ## There are times to teach and not teach
-When relationships are strained and the air charged with emotion, an attempt to teach is often perceived as a form of judgment and rejection.
+* When relationships are strained and emotional, teaching may be perceived as judgment and rejection
 
-To take the child alone, quietly, when the relationship is good and to discuss the teaching or the value seems to have much greater impact
+* Teach when alone, quiet, and the relationship is good 
+
+* Intimidation (fear) builds weakness. Depends on external factors to get things done. When fear replaces cooperation, both people become illogical and defensive.
 
 ## Things we blame
 * Genetics
@@ -141,7 +147,7 @@ To take the child alone, quietly, when the relationship is good and to discuss t
 ### Self Management
 |                    | Urgent      | Not Urgent      |
 | ------------------ |:-----------:| :--------------:|
-| **Important**      | Necessity   |**Effectiveness**|
+| **Important**      | Necessity   |<u>**Effectiveness**</u>|
 | **Not Important**  | Distraction |   Waste         |
 
 #### Necessity
@@ -151,7 +157,7 @@ To take the child alone, quietly, when the relationship is good and to discuss t
 * Pressing Problems
 * Unforseen Events
 
-#### **Effectiveness**
+#### <u>**Effectiveness**</u>
 * Proactive Work
 * Important Goals 
 * Creative Thinking 
@@ -177,6 +183,16 @@ To take the child alone, quietly, when the relationship is good and to discuss t
 * Time-Wasters
 * Gossip
 
+### Being Effective
+Effectiveness focus is a paradigm that grows out of a principle center
+- if centered on spouse, money, friends, pleasure, extrinsic or self then will thrown into Necessities and Distractions. Will react to outside forces or impulses
+- be principle centered/personal mission/bigger picture (character ethics). Need self-discipline and motivation to avoid distractions and time wasters
+
+#### Weekly Planning
+1. ID your roles for the week (ie: worker, personal/individual, parent, spouse)
+2. Select goals for the week
+3. Scheduling - make time during the week to work towards achieving goals for the week
+4. Daily Adapting - Things happen and need to review schedule every day to still achieve goals
 
 
 
