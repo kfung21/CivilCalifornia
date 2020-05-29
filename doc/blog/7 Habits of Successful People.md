@@ -1,5 +1,5 @@
 ---
-title: 7 Habits of Succesful People
+title: 7 Habits of Successful People
 date: 2020-5-24
 excerpt: How to be effective in Life
 type: blog
@@ -11,7 +11,7 @@ tags:
 <TagLinks />
 
 ## The Habits
-Habbits are the intersection of:
+Habits are the intersection of:
 - Knowledge - What to do and why
 - Skill - How to do
 - Desire - Motivation, Want to do
@@ -29,7 +29,7 @@ Habbits are the intersection of:
 5. Seek First to Understand then be Understood 
 6. Synergize 
 
-### Overvall
+### Overall
 7. Sharpen the Saw
 
 ## Character Ethic (Enduring Principles)
@@ -64,6 +64,7 @@ parts and principles apply and relate to each other
 * Serve
 * Produce
 * Contribute in meaningful ways
+* learning/growing
 
 ## There are times to teach and not teach
 * When relationships are strained and emotional, teaching may be perceived as judgment and rejection
@@ -75,10 +76,10 @@ parts and principles apply and relate to each other
 ## Things we blame
 * Genetics
 * Psychic - upbringing
-* Environment - people and situtions that surround you
+* Environment - people and situations that surround you
 
 ## Management vs Leadership
-* Producers and Problem Solvers (Employees) - cutting through jungle with machettes
+* Producers and Problem Solvers (Employees) - cutting through jungle with manchettes
 * Managers - behind employees, writing policy/procedure, sharpening the knives, set up schedules, compensation programs for employees
 * Leader - climbs the tallest tree, surveys the situation, yells "Wrong Jungle!". 
     - The busy, efficient, employees and managers respond "shut up, we're making progress!"
@@ -138,7 +139,7 @@ parts and principles apply and relate to each other
 4. Independent Will - Act not acted upon
 
 ## Habit 3: First thing First
-### Phyiscal (2nd) Creation
+### Physical (2nd) Creation
 * Fulfillment, actualization, natural emergence of Habits 1 & 2
 * Practicing Self Management: Day-in, day-out; moment-by-moment doing it
     - Manage from Left Brain (Logic)
@@ -155,7 +156,7 @@ parts and principles apply and relate to each other
 * Emergency Meetings
 * Last-Minute Deadlines
 * Pressing Problems
-* Unforseen Events
+* Unforeseen Events
 
 #### <u>**Effectiveness**</u>
 * Proactive Work
@@ -169,10 +170,10 @@ parts and principles apply and relate to each other
 #### Distraction
 * Needless Interruption
 * Unnecessary Reports
-* Irrelevat Meetings
+* Irrelevant Meetings
 * Other People's Minor Issues
 * Unimportant Email, Tasks
-* Phone Calls, Status Posts, etc
+* Phone Calls, Status Posts, etc.
 
 #### Waste
 * Trivial Work
@@ -194,5 +195,130 @@ Effectiveness focus is a paradigm that grows out of a principle center
 3. Scheduling - make time during the week to work towards achieving goals for the week
 4. Daily Adapting - Things happen and need to review schedule every day to still achieve goals
 
+### Delegation
+1. Gofer (Micromanage)
+    * "Go/do for this, go/do for that. Tell me when it's done"
+    * Too focused on methods and feel responsible for results
+        - the person receiving the task may not feel responsible
+    * Most employees/producers still think like that once promoted
+2. **Stewardship Delegation**
+    * Focused on results instead of methods
+    * Clear, up-front, mutual understanding, and commitment in expectations in 5 areas
+        1. Desired Results
+        2. Guidelines
+            - few as possible, but include any restrictions
+                * if don't give enough info and they violate rule unbeknownst, kills initiative and instills "just tell me what to do, and I'll do it" 
+            - be honest and open
+                * if you know failure paths, let them know upfront
+                    - tell them what not to do, not how they should do it
+                    - ok to give recommendation on how I'd do it
+        3. Resources
+            - ID human, financial, technical, or organizational resources they may want to use
+        4. Accountability
+            - set up performance standards for evaluating results (what's it for? why do this?) and due dates
+        5. Consequences
+            - Good and bad as a result of the evaluation
+                * rewards, new job assignments, natural consequences
+    * Gives people a choice of methods and responsible for results
+    * Takes more initial time investment, but can increase your time leverage via effective Stewardship Delegation
+    * Stewardship = job with trust
+        - I trust you to do the job, to get it done. You're the boss of yourself now.
+        - boss becomes the helper. may only have limited time, but employee tells boss how they can help
+        - employee becomes the judge: 
+            * regular check-ins with the boss. Employee tells boss how it's coming along
+    * Trust is highest form of human motivation
+        - takes time + patience + training/development (increase competency)
+        - objective: empower the employee
+    * More work gets done in less time in the future
+    * Must want to manage, not just produce 
+    * Focus on effectiveness not efficiency
+    * With immature employees - fewer results, more guidelines/resources/check-ins/immediate consequences
+    * With mature employees - more challenging results, less guidelines/check-ins
+    * Effective delegation is best indicator of effective management: basis of personal/organizational growth
 
+## Paradigms of Interdependence
+* Must master self independence/discipline first
+    - **you can't talk your way out of problems you behave yourself into**
+    - most important part we put into any relationship is not our actions/words, but what we are
+        * if words/actions come from superficial HR techniques (personality ethic) others will sense deception
+        * can't be trusted
+* golden eggs = effectiveness: the results from open communication, positive interaction w/others
+* goose = relationships: must create and maintain
 
+### Emotional Bank Account
+* the amount of trust that's been built in a relationship
+    - feeling of safeness with someone
+* Make deposit into EBA through kindness, courtesy, honesty, and keeping commitments to someone
+    - trust towards them increases
+    - can use that trust if make mistakes in future, reserves compensate
+    - must keep making deposits to maintain relationship
+* when trust in EBA is high, communication is easy, instant, and effective
+* Reduce trust in EBA:
+    - showing discourtesy, disrespect
+    - cutting them off
+    - overreacting
+    - ignoring
+    - becoming arbitrary
+    - betraying trust
+    - threatening
+    - playing god in your life
+* Once trust in EBA low, have to be careful with every word/interaction/PYA
+    - you may get tuned out
+* When relationship deteriorates:
+    - accommodation, 2 ppl live independent lifestyles and tolerate the other
+    - hostility, defensiveness, verbal fights, emotional withdrawal, self-pity, cold war, legal battles
+* Most constant relationships (ie: marriage) require most constant deposits
+    - with continuous expectations, old deposits are lost
+    - sometimes automatic EBA withdraws in daily interactions (ie: nagging)
+
+### 6 Major Deposits
+1. Understanding the Individual
+    * What might be a deposit for you might not be for someone else. May be a withdrawal
+    * To make a deposit: What is important to them must be as important to you as the other person is to you
+        - what you may find unimportant may be very important to another person (ie: child)
+        - stop projecting our autobiographies: interpret what a deposit is based on our needs/desires now or at a similar age/stage in life
+        - understand others a you would like to be understood and do that
+2. Attending to the Little Things
+    * small discourtesies/unkindness/disrespect = large withdrawals
+    * little things are the big things in relationships people remember most
+3. Keeping Commitments
+    * keeping a promise = major deposit
+    * breaking one = MAJOR (biggest) withdrawal
+    * don't make a promise you can't keep
+        - make them very carefully/sparingly
+        - be aware of variables/contingencies that may stop from fulfilling
+        - be true to your word
+4. Clarifying Expectations
+    * unclear expectations in goals undermine communication and trust
+        - leads to misunderstandings and large withdrawals
+    * many times implicit (ie: marriage) and are based on assumed roles
+    * get all expectations in a new situation. will be judged on those later
+        - clarifying expectations takes a lot of courage and problems should be brought to the table and worked out
+5. Show Personal Integrity
+    * generates trust and is the basis of deposits
+    * lack of integrity undermine all other efforts to create trust
+    * be honest, keep promises, and fulfill expectations
+        - be loyal to those not present. 
+            * if you agree with gossip/criticism, suggest approaching non-present person together
+                - builds trust even if honest confrontation not initially appreciated
+                - you care enough to confront
+            * may seem like a deposit, but a withdrawal. shows you can't be trusted
+    * to be trusted > being loved
+    * be patient with everyone - people will test your patience, so don't overreact
+    * avoid deceptive communication, guile, lack dignity
+    * apologize **sincerely** when we make a withdrawal (becomes a deposit):
+        - I was wrong
+        - That was unkind of me
+        - I showed you no respect
+        - I embarrassed you in front of everyone, it was uncalled for.
+    * repeated apologies are **insincere** = withdrawal
+    * mistakes of mind or heart (bad intentions/motives/cover ups/justifications)
+        - people will forgive mistakes in lapse of judgement (mind) not the heart
+6. Laws of Love and Life
+    * unconditional love deposits -> let's others be themselves
+        - not permissive/soft/pushover (withdrawal)
+        - counsel, plead, set limits/boundaries
+    * if attach strings then others become reactive/defensive
+        - rebellion from heart not mind
+        - make constant deposits of unconditional love
+    
