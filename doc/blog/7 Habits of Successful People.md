@@ -323,7 +323,7 @@ Effectiveness focus is a paradigm that grows out of a principle center
         - make constant deposits of unconditional love
     * "It's more noble to give yourself completely to 1 individual than to labor diligently for the salvation of the masses"
         - most important to have strong relationships with those closest to you
-        
+
 ### P Problems = PC Opportunities
     * confrontation/talk it out = deposit in EBA
     * opportunity to grow the relationship like Danny Tanner
@@ -417,39 +417,39 @@ Effectiveness focus is a paradigm that grows out of a principle center
     * Consequences - good/bad, natural/logical as a result of evaluation
 
 ### Processes
-    * Separate person from problem
-        - focus on interests not positions
-        - create options for mutual gain
-        - insist on objective criteria
-    * 4 Steps to Win/Win:
-        1. See problem from other point of view
-            - give expressions to needs/concerns better than they can 
-        2. ID the key issues involved
-        3. Determine what results = fully acceptable solution
-        4. ID new options to achieve those results
-    * Character of integrity, maturity, and abundance mentality [from high trust relationships]
+* Separate person from problem
+    - focus on interests not positions
+    - create options for mutual gain
+    - insist on objective criteria
+* 4 Steps to Win/Win:
+    1. See problem from other point of view
+        - give expressions to needs/concerns better than they can 
+    2. ID the key issues involved
+    3. Determine what results = fully acceptable solution
+    4. ID new options to achieve those results
+* Character of integrity, maturity, and abundance mentality [from high trust relationships]
 
 ## Habit 5: Seek to Understand, Then to be Understood (go last)
 ### 4 forms of communication
-    1. Reading
-    2. Writing
-    3. Speaking
-    4. Listening
-    * We learn 1-3 in school/life, but need to listen more
-    * must have good core conduct/character - others can sense duplicity and will distrust you by default
+1. Reading
+2. Writing
+3. Speaking
+4. Listening
+* We learn 1-3 in school/life, but need to listen more
+* must have good core conduct/character - others can sense duplicity and will distrust you by default
 
 ### Empathic Listening
-    * Most people listen with intent to reply instead of understanding
-    * 5 Listening Forms: Ignore, Pretend, Selective, Attentive (words only), Empathic (Feeling)
-        - be a shrink
-        - non-verbal: listen with ears, eyes, and heart
-        - listen for feeling, behavior, and meaning
-    * rephrase what they said + describe how they feel 
-        - indulge them, don't judge/react
+* Most people listen with intent to reply instead of understanding
+* 5 Listening Forms: Ignore, Pretend, Selective, Attentive (words only), Empathic (Feeling)
+    - be a shrink
+    - non-verbal: listen with ears, eyes, and heart
+    - listen for feeling, behavior, and meaning
+* rephrase what they said + describe how they feel 
+    - indulge them, don't judge/react
 
 ### 4 Autobiographical Responses (Talk about Ourselves NOT GOOD)
-    1. Evaluate - Agree/Disagree
-    2. Probe - Ask objective questions
-    3. Advise - Give objective advice
-    4. Interpret - Explain their motives
+1. Evaluate - Agree/Disagree
+2. Probe - Ask objective questions
+3. Advise - Give objective advice
+4. Interpret - Explain their motives
 
