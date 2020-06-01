@@ -3,13 +3,14 @@
   <div>
     <br/>
     <br/>
-    <span v-for="tag in Object.keys(tags)">
+    <!-- <span v-for="tag in Object.keys(tags)"> -->
+    <span v-for="tag in sortedKeys">
       <h2 :id="tag">
         <router-link
           :to="{ path: `/tags.html#${tag}`}"
           class="header-anchor"
           aria-hidden="true">#</router-link>
-        #{{tag}}
+        {{tag}}
       </h2>
       <ul>
         <li v-for="page in tags[tag]">
@@ -24,9 +25,14 @@
 <script>
 export default {
   name: 'TagList',
+  methods: {
+    getTags() {
+      
+    }
+  },
   computed: {
-    tags() {
-      let tags = {}
+    sortedKeys() {
+      let tags = []
       for (let page of this.$site.pages) {
         for (let index in page.frontmatter.tags) {
           const tag = page.frontmatter.tags[index]
@@ -37,7 +43,24 @@ export default {
           }
         }
       }
-      console.log(tags);
+      const keys = Object.keys(tags).sort()
+      return keys
+    },
+    tags() {
+      let tags = []
+      for (let page of this.$site.pages) {
+        for (let index in page.frontmatter.tags) {
+          // console.log(page.frontmatter.tags);
+          const tag = page.frontmatter.tags[index]
+          if (tag in tags) {
+            tags[tag].push(page)
+          } else {
+            tags[tag] = [page]
+          }
+        }
+      }
+      // console.log(tags);
+
       return tags
     }
   },

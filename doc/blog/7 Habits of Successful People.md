@@ -323,6 +323,7 @@ Effectiveness focus is a paradigm that grows out of a principle center
         - make constant deposits of unconditional love
     * "It's more noble to give yourself completely to 1 individual than to labor diligently for the salvation of the masses"
         - most important to have strong relationships with those closest to you
+        
 ### P Problems = PC Opportunities
     * confrontation/talk it out = deposit in EBA
     * opportunity to grow the relationship like Danny Tanner
