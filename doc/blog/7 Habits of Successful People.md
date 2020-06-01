@@ -313,7 +313,7 @@ Effectiveness focus is a paradigm that grows out of a principle center
         - I embarrassed you in front of everyone, it was uncalled for.
     * repeated apologies are **insincere** = withdrawal
     * mistakes of mind or heart (bad intentions/motives/cover ups/justifications)
-        - people will forgive mistakes in lapse of judgement (mind) not the heart
+        - people will forgive mistakes in lapse of judgement (mind) not theI heart
 6. Laws of Love and Life
     * unconditional love deposits -> let's others be themselves
         - not permissive/soft/pushover (withdrawal)
@@ -321,4 +321,134 @@ Effectiveness focus is a paradigm that grows out of a principle center
     * if attach strings then others become reactive/defensive
         - rebellion from heart not mind
         - make constant deposits of unconditional love
-    
+    * "It's more noble to give yourself completely to 1 individual than to labor diligently for the salvation of the masses"
+        - most important to have strong relationships with those closest to you
+### P Problems = PC Opportunities
+    * confrontation/talk it out = deposit in EBA
+    * opportunity to grow the relationship like Danny Tanner
+
+## Habit 4: Think Win/Win
+
+### Principles of Interpersonal Leadership
+    * whenever go from independence to interdependence, step into a leadership role
+        - effective interpersonal leadership = think win/win
+
+### 6 Paradigms of Human Interaction
+    1. Win/Win
+        * cooperation not competition
+        * compromise is a low form of win-win
+    2. Win/Lose (competition)
+        * Most of Life teaches us Win/Lose (competition):
+            - education - competition for grades, cooperation is cheating
+            - sports - win/lose
+            - law - suing in court
+        * No need to compete with spouse, children, coworkers, neighbors, friends
+    3. Lose/Win (pushover)
+        * worse than Win/Lose
+            - no standards, expectations, vision
+            - eager/quick to please, want acceptance
+            - being a nice guy and giving up
+        * buried feelings - never go away
+            - causes illness: respiratory, circular
+            - bad feelings: resentment, disappointment, disillusionment, rage/anger, cynicism
+                * affects self-esteem and relationship with others
+        * many people go between Win/Lose and Lose/Win - lack structure, direction, expectation, discipline
+    4. Lose/Lose
+        * Two Win/Lose people (stubborn, egotistical) always a lose-lose
+            - want to get revenge
+        * philosophy of enemies, war, and misery loves company
+    5. Win
+        * as long as you get what you want
+    6. Win/Win
+    7. No Deal (agree to disagree)
+
+    * Which is best depends on the situation. Most of the time you want cooperation in relationships (win-win)
+    * Negotiation - Win-Win or No Deal
+        - try again later so no resentment
+        - works best in beginning of relationship, not always realistic No Deal
+
+### 5 Dimensions of Win-Win
+    1. Character
+        * Integrity - Habits 1-3 develop/maintain
+        * Maturity - balance of Courage and Consideration
+            - "ability to express one's own feelings and convictions balanced with consideration for the thoughts and feelings of others"
+            - Win/Win: Be nice, courageous, empathic, confident, considerate, sensitive, brave
+|                        | Low Courage | High Courage |
+| ---------------------- |:-----------:| :-----------:|
+| **High Consideration** | Lose/Win    | Win/Win      |
+| **Low Consideration**  | Lose/Lose   | Win/Lose     |
+        * Abundance Mentality - "There's plenty to go around"
+            - people with scarcity mentality
+                * don't like differences (insubordination/disloyalty), prefer yes-men
+                * difficult to function as a team
+            - deep sense of personal worth and security
+            - share: prestige, recognition, profits, decision making
+                * appreciates uniqueness, inner direction, proactiveness of others
+            - public victory: working, communicating, making things happen together unable to do by themselves
+    2. Relationships
+    3. Agreements
+    4. Support Systems
+    5. Processes
+
+### Relationships
+    * Trust (EBA) - basis of Win/Win
+        - without trust the best result is compromise
+        - lack credibility for open, mutual learning/communication, real creativity
+        - if EBA trust is high, credibility is not an issue and respect is mutual
+            * can focus on the issues/each other's point of view, not on personalities
+    * Dealing with a Win/Lose person
+        - relationship is key (focus on circle influence) make EBA deposits by:
+            * courteous, respect, appreciation for that person and their point of view
+            * longer communication, more listening, more expressions of courage
+            * not reactive, be proactive
+        - stay strong, keep hammering it out until they realize you genuinely want a win/win
+            * alternative is no deal or compromise
+    * Bad character traits:
+        - reactive stance: say you support their decision, but don't really behind their back, and then say "oh it didn't work out"
+        - overactive stance: try to sabotage the outcome of their decision that you disagree with
+        - maliciously obedient: follow exactly as told, but take no responsibility for results
+
+### Agreements
+    * Desired results - ID what needs to be done and when
+    * Guidelines - specify parameters/principles/policies
+    * Resources - ID human, financial, technical support available to help get results
+    * Accountability - sets standards for performance/evaluation
+    * Consequences - good/bad, natural/logical as a result of evaluation
+
+### Processes
+    * Separate person from problem
+        - focus on interests not positions
+        - create options for mutual gain
+        - insist on objective criteria
+    * 4 Steps to Win/Win:
+        1. See problem from other point of view
+            - give expressions to needs/concerns better than they can 
+        2. ID the key issues involved
+        3. Determine what results = fully acceptable solution
+        4. ID new options to achieve those results
+    * Character of integrity, maturity, and abundance mentality [from high trust relationships]
+
+## Habit 5: Seek to Understand, Then to be Understood (go last)
+### 4 forms of communication
+    1. Reading
+    2. Writing
+    3. Speaking
+    4. Listening
+    * We learn 1-3 in school/life, but need to listen more
+    * must have good core conduct/character - others can sense duplicity and will distrust you by default
+
+### Empathic Listening
+    * Most people listen with intent to reply instead of understanding
+    * 5 Listening Forms: Ignore, Pretend, Selective, Attentive (words only), Empathic (Feeling)
+        - be a shrink
+        - non-verbal: listen with ears, eyes, and heart
+        - listen for feeling, behavior, and meaning
+    * rephrase what they said + describe how they feel 
+        - indulge them, don't judge/react
+
+### 4 Autobiographical Responses (Talk about Ourselves NOT GOOD)
+    1. Evaluate - Agree/Disagree
+    2. Probe - Ask objective questions
+    3. Advise - Give objective advice
+    4. Interpret - Explain their motives
+
