@@ -374,10 +374,12 @@ Effectiveness focus is a paradigm that grows out of a principle center
     * Maturity - balance of Courage and Consideration
         - "ability to express one's own feelings and convictions balanced with consideration for the thoughts and feelings of others"
         - Win/Win: Be nice, courageous, empathic, confident, considerate, sensitive, brave
+        
 |                        | Low Courage | High Courage |
 | ---------------------- |:-----------:| :-----------:|
 | **High Consideration** | Lose/Win    | Win/Win      |
 | **Low Consideration**  | Lose/Lose   | Win/Lose     |
+
 * Abundance Mentality - "There's plenty to go around"
     - people with scarcity mentality
         * don't like differences (insubordination/disloyalty), prefer yes-men
