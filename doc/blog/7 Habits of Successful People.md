@@ -444,8 +444,44 @@ Effectiveness focus is a paradigm that grows out of a principle center
     - be a shrink
     - non-verbal: listen with ears, eyes, and heart
     - listen for feeling, behavior, and meaning
-* rephrase what they said + describe how they feel 
+* rephrase content (logic) & describe/reflect how they feel (feeling) 
     - indulge them, don't judge/react
+    - use when responses are emotional
+    - if responses are logical then can ask questions/give advice
+* info gathering
+
+#### Example Conversation
+Son: "Boy, Dad, I've had it! School is for the birds!"
+
+Dad: "You're feeling really frustrated about school"
+
+Son: "I sure am. It's totally impractical. I'm not getting a thing out of it."
+
+Dad: "You feel like school's not doing you any good."
+
+Son: "Well, yeah. I'm just not learning anything that's going to help me. I mean, look at Joe. 
+He's dropped out of school and he's working on cars. He's making money. Now that's practical."
+
+Dad: "You feel that Joe really has the right idea"
+
+Son: "Well, I guess he does in a way. He's really making money now. But in a few years, I bet 
+he'll probably be ticked off at himself."
+
+Dad: "You think Joe's going to feel he made the wrong decision."
+
+Son: "He's got to. Just look at what he's giving up. I mean, if you don't have an education, you can't make it in this world"
+
+Dad: "Education is really important"
+
+Son: "Oh, yeah! I mean, if you don't have a diploma, if you can't get jobs or go to college, what are you going to do? You've got to have an education."
+
+Dad: "It's important to your future"
+
+Son: "It is. And you know what? I'm really worried. Listen, you won't tell mom, will you?"
+
+Dad: "You don't want your mother to find out"
+
+Son: "Well, not really. You can tell her, she'll probably find out anyway"
 
 ### 4 Autobiographical Responses (Talk about Ourselves NOT GOOD)
 1. Evaluate - Agree/Disagree
@@ -453,3 +489,37 @@ Effectiveness focus is a paradigm that grows out of a principle center
 3. Advise - Give objective advice
 4. Interpret - Explain their motives
 
+### Then Seek to be Understood
+* Ethos: personal credibility, how people perceive your integrity and competency. Your trust level (EBA)
+* Pathos: emotional alignment, empathic/feeling with others 
+* Logos: logic and reasoning
+
+## Habit 6: Synergize
+* Putting it all together, a little each day
+* Sum is greater than it's parts, but individual is most important
+
+### Communicate Synergistically
+* open to new possibilities/alternatives - fulfilling Habit 2
+* Requires personal security, openness, and sense of adventure
+    - not sure what will happen, but it will be better than before
+    - everyone can be genuine/authentic/inspired and express themselves freely because of trust and courage
+
+### Level of Communication
+* Synergistic (Win/Win): High Trust, High Cooperation
+* Respectful (Compromise): Some Trust, Some Cooperation
+* Defensive (Win/Lose or Lose/Win): Low Trust, Low Cooperation
+
+### Negative Synergy
+* Insecure people think others need to bend to their views
+    - don't realize strength in relationship is having another point of view 
+    - essence of synergy = value differences
+
+### Value Differences
+* Everyone sees the world differently not as it actually is
+    - ex: old/young lady abstract picture
+* both people can be right doesn't have to be either/or
+
+## Habit 7: Sharpen the Saw
+* Take time to focus on renewing yourself: Physically, Spiritually, Mentally, Socially/Emotionally
+    - Best/Most Powerful investment is in yourself (Quad II/effective use of time)
+* For Organizations: Economic (Phys), Treatment of People (Social), Training/Development (Mental), Service of job (Spirit)
