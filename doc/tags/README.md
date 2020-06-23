@@ -5,7 +5,7 @@ excerpt: About Civil California
 type: page
 blog: false
 tags:
-sidebar: false
+sidebar: none
 ---
 
 <TagList />
