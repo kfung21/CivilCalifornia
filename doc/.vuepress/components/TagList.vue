@@ -32,28 +32,31 @@ export default {
   },
   computed: {
     sortedKeys() {
-      let tags = []
+      let tags = {}
       for (let page of this.$site.pages) {
         for (let index in page.frontmatter.tags) {
           const tag = page.frontmatter.tags[index]
           if (tag in tags) {
             tags[tag].push(page)
+          } else if (page.frontmatter.hidden==true){
           } else {
             tags[tag] = [page]
           }
         }
-      }
+      } 
       const keys = Object.keys(tags).sort()
       return keys
     },
     tags() {
-      let tags = []
+      let tags = {}
       for (let page of this.$site.pages) {
         for (let index in page.frontmatter.tags) {
           // console.log(page.frontmatter.tags);
           const tag = page.frontmatter.tags[index]
           if (tag in tags) {
             tags[tag].push(page)
+          } else if (page.frontmatter.hidden==true){
+
           } else {
             tags[tag] = [page]
           }

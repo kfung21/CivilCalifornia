@@ -4,6 +4,7 @@ date: 2020-5-24
 excerpt: How to be effective in Life
 type: blog
 blog: true
+hidden: false
 tags:
     - work
     - communication

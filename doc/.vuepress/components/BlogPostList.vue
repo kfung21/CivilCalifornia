@@ -27,6 +27,7 @@ export default {
                 
                 return this.pages.filter(item => {
                     const isBlogPost = !!item.frontmatter.blog
+                    const isHidden = !!item.frontmatter.hidden
                     const isReadyToPublish = new Date(item.frontmatter.date) <= new Date()
                      // check for locales
                     let isCurrentLocale = true;
@@ -37,7 +38,7 @@ export default {
                     // check if tags contain all of the selected tags
                     const hasTags = !!item.frontmatter.tags && this.selectedTags.every((tag) => item.frontmatter.tags.includes(tag))
 
-                    if (!isBlogPost || !isReadyToPublish || (this.selectedTags.length > 0 && !hasTags) || !isCurrentLocale){ 
+                    if (!isBlogPost || !isReadyToPublish || isHidden || (this.selectedTags.length > 0 && !hasTags) || !isCurrentLocale){ 
                         return false
                     }
 
