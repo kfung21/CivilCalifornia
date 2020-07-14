@@ -106,9 +106,9 @@ export default {
         <ul class="blog-list">
             <br/>
             <li v-for="(item, index) in filteredList"
-                class="blog-list__item card">
+                class="blog-list__item card"
+                v-show="index >= currentPage * pageSize && index < (currentPage + 1) * pageSize">
                 <BlogPostPreview 
-                    v-show="index >= currentPage * pageSize && index < (currentPage + 1) * pageSize"
                     :item="item"
                 />
                 <ul v-for="tag in item.frontmatter.tags" class="blog-list__tags">
